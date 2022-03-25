@@ -1,6 +1,6 @@
 # My-Food-App
 
-This Food App is created by fetching a food api 
+Food App is created by fetching an API of food items in which consists some random recipes and recipe of the day
 
 <h3>Home Page</h3>
 <img src ="https://user-images.githubusercontent.com/96073111/159007363-3803b372-03ce-429d-9ed3-c9788293adee.png"><br><br><br>
